@@ -26,4 +26,4 @@ https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
 
 
 
-I have launched my cloud shell
+1. I have launched my Azure Cloud Shell
