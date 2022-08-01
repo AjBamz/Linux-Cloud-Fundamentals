@@ -27,3 +27,7 @@ https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
 
 
 1. I have launched my Azure Cloud Shell
+
+2. I created a virtal machine Screenshot (176).png 
+
+3. Another Image- My virtual machine Screenshot (179).png
