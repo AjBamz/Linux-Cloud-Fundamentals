@@ -31,3 +31,5 @@ https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
 2. I created a virtal machine Screenshot (176).png 
 
 3. Another Image- My virtual machine Screenshot (179).png
+
+4.  I am able to view the web server in action
