@@ -18,3 +18,6 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-di
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+
+1. I learnt how to Manage Azure disk with the Azure CLI, create a snapshot and create a snapshot
