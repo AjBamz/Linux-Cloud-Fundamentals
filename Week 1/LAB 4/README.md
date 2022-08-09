@@ -14,3 +14,8 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-key
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+
+NOTE
+
+1. i have learnt how to create a SSH key pair and use it in a VM
