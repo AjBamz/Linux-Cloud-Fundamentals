@@ -17,3 +17,7 @@ https://aws.amazon.com/getting-started/launch-a-virtual-machine-B-0/
 Quickstart for AWS CloudShell
 
 https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.html
+
+
+1. I have created a Linux virtual machine with the AWS CLI. I followed the steps beginning by launching the cloud shell ended up viewing the web server in action. Kindly see the attached screenshot that prove my delivery. 
+
