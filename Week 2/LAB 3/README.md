@@ -24,3 +24,6 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-automate-
 Create bootstrap actions to install additional software
 
 https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-bootstrap.html
+
+
+1. I managed packages and services on a Linux VM (AWS) by following the steps enumerated above. 
