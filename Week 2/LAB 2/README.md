@@ -23,3 +23,6 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/reboot-instances.html
 Quickstart for AWS CloudShell
 
 https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.html
+
+
+1. I learnt how to manage the Linux VMs with the AWS CLI. 
