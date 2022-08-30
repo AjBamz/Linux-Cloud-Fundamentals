@@ -21,3 +21,6 @@ Grading tip:  Screenshot major cli output and upload with your step by step answ
 Guide:
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-instances.html
+
+1. I launched my instance following the step in the userguide above.
+2. This was done by filling in the right image(amazon linux ami), the instance type, key name, the sg etc. I was able to launch as illustrated in the picture attached. 
