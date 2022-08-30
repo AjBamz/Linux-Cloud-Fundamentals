@@ -16,3 +16,4 @@ Grading tip:  Screenshot each step and upload with your step by step answer
 Guide:
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html
 
+1. I have created a VPC with the following property listed above using the CLI
