@@ -24,4 +24,4 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
 
 Grading tip:  Screenshot major script/console outputs and upload with your step by step answer
 
-1, i hosted a blog on the Amazon Linux
+1. I hosted a blog on the Amazon Linux, by completing the steps and running the commands as documented in the Guide above. 
